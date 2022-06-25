@@ -1,7 +1,7 @@
 # Destiny-Run
 Magic Media Case Study
 
-You can find the link for Google Drive below:
+Link for Google Drive:
 https://drive.google.com/drive/folders/1t3KqATwYvHIhDRdgF6PRKUUDuD6tUrcV?usp=sharing
 
 There is a "Build" folder which contains the Windows build zip of the game. You can directly click to "Destiny Run.exe" and play the game.
