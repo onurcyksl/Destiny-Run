@@ -20,3 +20,12 @@ In "Game" scene, player has the first turn and there will be a dice each round a
 There's also in game pause-menu where player can access it by pressing the "Escape" button from his/her keyboard. It can opened and closed via button or after it's opened it can be also closed by pressing "Resume" button in the UI. "Restart" button will restart the level and start from the beginning. "Main Menu" button will switch the screen from "Game" to "Main Menu". "Audio" toggle is for mute/unmute audio of the game.
 
 That's all, have fun!!!
+
+------------------------
+   BUGS & TO IMPROVE
+------------------------
+
+- After player stops the dice, until the the turn passes to enemy, player can press "Space" and continue to move.
+- AI movement does not rotate, so its body rotation is always same
+- At the end of the game where either player or enemy wins, "WIN" or "LOST" states shows up and it directly goes to "Main Menu" screen. If you play the game again the state remains at those mentioned before, thus it loops back to "Main Menu".
+- Another dice needs to implemented to offer another movement option.
