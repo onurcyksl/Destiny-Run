@@ -1,5 +1,4 @@
 # Destiny-Run
-Magic Media Case Study
 
 Link for Google Drive:
 https://drive.google.com/drive/folders/1t3KqATwYvHIhDRdgF6PRKUUDuD6tUrcV?usp=sharing
