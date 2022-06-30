@@ -5,8 +5,6 @@ https://drive.google.com/drive/folders/1Mf-H5edAM_LvX5QpnWBl3pCL57xGGcHy?usp=sha
 
 There is a "Build" folder which contains the Windows build zip of the game. You can directly click to "Destiny Run.exe" and play the game.
 
-"Project" folder contains Destiny Run project files, script, scenes, etc.
-
 ------------------------
         GAMEPLAY
 ------------------------
