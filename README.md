@@ -1,7 +1,7 @@
 # Destiny-Run
 
 Link for Google Drive:
-https://drive.google.com/drive/folders/1t3KqATwYvHIhDRdgF6PRKUUDuD6tUrcV?usp=sharing
+https://drive.google.com/drive/folders/1Mf-H5edAM_LvX5QpnWBl3pCL57xGGcHy?usp=sharing
 
 There is a "Build" folder which contains the Windows build zip of the game. You can directly click to "Destiny Run.exe" and play the game.
 
